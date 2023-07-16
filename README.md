@@ -1,5 +1,4 @@
 <h1>Меня зовут Аслан!</h1>
-<hr>
 <h3>Я frontend developer, мой стек:</h3>
 
 <div align="center">
