@@ -1,5 +1,4 @@
-<h1>Меня зовут Аслан!</h1>
-<h3>Я frontend developer, мой стек:</h3>
+<h1>Добро пожаловать на мою страницу! Меня зовут Аслан и я Frontend-разработчик!</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
