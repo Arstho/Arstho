@@ -32,9 +32,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,webpack,npm" />
   
   <h3>✅ Качество кода</h3>
-  <img width="48" height="48" alt="Eslint" src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" />
-   <img width="48" height="48" alt="Prettier" src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" />
-  <!-- <img src="https://skillicons.dev/icons?i=eslint,prettier" /> -->
+  <!-- <img width="48" height="48" alt="Eslint" src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" />
+   <img width="48" height="48" alt="Prettier" src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" /> -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=eslint,prettier" />
+  
 </div>
 
 <br>
